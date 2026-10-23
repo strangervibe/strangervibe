@@ -91,7 +91,7 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/İçerik-%25100%20Türkçe%20Özet-F59E0B?style=flat-square" /></a>
       </p>
       <p>
-        Global ve Türkiye yapay zeka ekosistemini (Hacker News, Hugging Face, arXiv, TechCrunch) 7/24 tarayan, <b>Google Gemini 3.5</b> ile analiz edip akıcı Türkçe hap özetlere dönüştüren <b>tam otonom haber ve radar platformu</b>.
+        Global ve Türkiye yapay zeka ekosistemini 7/24 tarayan, hap özetlere dönüştüren <b>tam otonom haber ve radar platformu</b>.
       </p>
       <p>
         <a href="https://aigunluk.vercel.app">
