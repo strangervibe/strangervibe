@@ -142,6 +142,6 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
 
 *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
-<sub>Connect & Explore: <a href="https://github.com/strangervibe">@strangervibe</a> • Built with modern vibes.</sub>
+<sub>Connect & Explore: <a href="https://github.com/strangervibe">@strangervibe</a></sub>
 
 </div>
