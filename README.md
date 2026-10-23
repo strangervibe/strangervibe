@@ -99,11 +99,11 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
         </a>
         &nbsp;
         <a href="https://aigunluk.vercel.app">
-          <img src="https://img.shields.io/badge/Haber%20Akışı-48%2B%20Canlı%20Bülten-EC4899?style=for-the-badge&logo=rss&logoColor=white" alt="Haber Akışı" />
+          <img src="https://img.shields.io/badge/Haber%20Akışı-50%2B%20Canlı%20Bülten-EC4899?style=for-the-badge&logo=rss&logoColor=white" alt="Haber Akışı" />
         </a>
         &nbsp;
-        <a href="https://aigunluk.vercel.app">
-          <img src="https://img.shields.io/badge/Kaynaklar-Global%20%2B%20TR-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kaynaklar" />
+        <a href="https://github.com/strangervibe/aigunluk">
+          <img src="https://img.shields.io/badge/GitHub-Depoyu%20Yıldızla%20★-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Yıldızla" />
         </a>
       </p>
     </td>
