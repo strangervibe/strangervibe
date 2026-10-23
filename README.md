@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/strangervibe?style=for-the-badge&logo=github&labelColor=161B22&color=0969DA)](https://github.com/strangervibe?tab=followers)
 [![Flagship](https://img.shields.io/badge/Flagship-Niyaz%20Mobile-1B6B4A?style=for-the-badge&logo=appveyor)](https://github.com/strangervibe/Niyaz)
 [![AI Platform](https://img.shields.io/badge/Live-AI%20G%C3%BCnl%C3%BCk-4F46E5?style=for-the-badge&logo=vercel)](https://aigunluk.vercel.app)
-[![Mode](https://img.shields.io/badge/Mode-Vibe%20Coding-8A2BE2?style=for-the-badge&logo=openai)](#)
+[![Mode](https://img.shields.io/badge/Mode-Autonomous%20AI-8A2BE2?style=for-the-badge)](#)
 
 </div>
 
@@ -85,7 +85,7 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
     <td valign="top">
       <h3 style="margin-top: 0;">📰 AI Günlük — Otonom Yapay Zeka Haberleri & Türkçe Hap Özetler</h3>
       <p>
-        <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Yapay%20Zeka-Otonom%20K%C3%BCrasyon-4F46E5?style=flat-square&logo=openai&logoColor=white" /></a>
+        <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Yapay%20Zeka-Otonom%20K%C3%BCrasyon-4F46E5?style=flat-square" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Otonomi-GitHub%20Actions%20Cron-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Frekans-Günde%204x%20Canlı-10B981?style=flat-square" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/İçerik-%25100%20Türkçe%20Özet-F59E0B?style=flat-square" /></a>
