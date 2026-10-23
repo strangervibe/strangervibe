@@ -80,14 +80,13 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
         <img src="https://aigunluk.vercel.app/icons/icon-192.png" width="95" height="95" alt="AI Günlük Logo" />
       </a>
       <br/>
-      <sub><b style="color: #6366F1;">● 4x Günlük Canlı</b></sub>
+      <sub><b style="color: #6366F1;">● Aktif Platform</b></sub>
     </td>
     <td valign="top">
       <h3 style="margin-top: 0;">📰 AI Günlük — Otonom Yapay Zeka Haberleri & Türkçe Hap Özetler</h3>
       <p>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Yapay%20Zeka-Otonom%20K%C3%BCrasyon-4F46E5?style=flat-square" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Otonomi-GitHub%20Actions%20Cron-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></a>
-        <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Frekans-Günde%204x%20Canlı-10B981?style=flat-square" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/İçerik-%25100%20Türkçe%20Özet-F59E0B?style=flat-square" /></a>
       </p>
       <p>
