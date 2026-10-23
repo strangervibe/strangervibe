@@ -85,7 +85,7 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
     <td valign="top">
       <h3 style="margin-top: 0;">📰 AI Günlük — Otonom Yapay Zeka Haberleri & Türkçe Hap Özetler</h3>
       <p>
-        <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Yapay%20Zeka-Google%20Gemini%203.5-4F46E5?style=flat-square&logo=google&logoColor=white" /></a>
+        <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Yapay%20Zeka-Otonom%20K%C3%BCrasyon-4F46E5?style=flat-square&logo=openai&logoColor=white" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Otonomi-GitHub%20Actions%20Cron-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Frekans-Günde%204x%20Canlı-10B981?style=flat-square" /></a>
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/İçerik-%25100%20Türkçe%20Özet-F59E0B?style=flat-square" /></a>
@@ -121,7 +121,7 @@ I am an independent developer focusing on **high-performance, aesthetic, and off
 <br/>
 
 - **Core & Runtimes:** JavaScript (ES6+), Python 3.12, Node.js, Capacitor (iOS / Android)
-- **AI & Automation:** Google Gemini 3.5 Flash, GitHub Actions Automation Cron, Autonomous Web Scraping
+- **AI & Automation:** Otonom Yapay Zeka Kürasyon Motoru, GitHub Actions Automation Cron, Web Intelligence
 - **Architecture:** Progressive Web Apps (PWA), Service Workers, Offline-First Flat-Data JSON
 - **Deployment & Cloud:** Vercel Global Edge CDN, GitHub Actions, GitHub Releases
 
