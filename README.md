@@ -23,7 +23,7 @@
 I am an independent developer focusing on **high-performance, aesthetic, and offline-first applications**. I leverage AI-assisted development (*vibe coding*) to turn ideas into polished, production-grade software at lightning speed.
 
 - 🌿 **Flagship Mobile:** Creator of [**Niyaz**](https://github.com/strangervibe/Niyaz) — An ad-free, serene, offline-first Islamic companion for Android, iOS, and Web.
-- 📰 **Autonomous AI:** Creator of [**AI Günlük**](https://aigunluk.vercel.app) — An autonomous AI curation engine scanning global tech feeds 4x daily with Google Gemini.
+- 📰 **Autonomous AI:** Creator of [**AI Günlük**](https://github.com/strangervibe/aigunluk) — An autonomous AI content curation engine scanning global tech news.
 - 💡 **Philosophy:** Minimum friction, maximum utility, zero bloated abstractions.
 
 ---
